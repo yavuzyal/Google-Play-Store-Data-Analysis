@@ -1,4 +1,4 @@
-# Maximizing-The-Number-Of-Downloads
+# Google Play Store Data Analysis
 
 INTRODUCTION: 
 
