@@ -18,12 +18,17 @@ After the data analysis, Machine learning methods such as kNN, Decision Tree and
 
 ######Some interesting figures from the research:
 
+Most installed genres:
 ![Most installed genres:](https://user-images.githubusercontent.com/51164676/142004387-a991b24a-9dac-46f2-ae6f-66040f9d9ff8.JPG)
 
-![Price - installation graph (excluding free applications: )](https://user-images.githubusercontent.com/51164676/142004446-976b6342-a699-4be1-9bce-5cf07b7e8186.JPG)
+Price - installation graph (excluding free applications: 
+![Price - installation graph (excluding free applications: ](https://user-images.githubusercontent.com/51164676/142004446-976b6342-a699-4be1-9bce-5cf07b7e8186.JPG)
 
+Size - number of installations: 
 ![Size - number of installations: ](https://user-images.githubusercontent.com/51164676/142004491-a88380de-aa72-4523-92a0-f63ad84d5988.JPG)
 
+Target group - installations: 
 ![Target group - installations: ](https://user-images.githubusercontent.com/51164676/142004519-034844d9-4fcc-4431-8b3b-73a5deae5096.JPG)
 
+Correlation Matrix of Attributes: 
 ![Correlation Matrix of Attributes: ](https://user-images.githubusercontent.com/51164676/142004556-173035cb-b2ae-41ca-a07e-61a3fddef1d2.JPG)
