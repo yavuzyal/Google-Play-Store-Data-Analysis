@@ -1,6 +1,6 @@
 # Google Play Store Data Analysis
 
-Please check the results folder for detailed results.
+## Please check the results folder for detailed results.
 
 The aim of this project is to understand and evaluate which factors are more likely to have an effect on the number of users who installed/downloaded an application on Google Play Store. Thus, the research question of the project is: “Which features of Google Play Store apps are more likely to have positive or negative correlation with the number of downloads of a given app?”
 
