@@ -16,7 +16,7 @@ These are some main questions this project tried to answer:
 
 After the data analysis, Machine learning methods such as kNN, Decision Tree and Random Forest have been applied. 
 
-######Some interesting figures from the research:
+##Some interesting figures from the research:
 
 Most installed genres:
 ![Most installed genres:](https://user-images.githubusercontent.com/51164676/142004387-a991b24a-9dac-46f2-ae6f-66040f9d9ff8.JPG)
